@@ -12,8 +12,6 @@ Actualmente, la graficación por computadora es indispensable en múltiples sect
 
 # 1.1 Historia y evolución de la graficación por computadora
 
-La graficación por computadora surge como una necesidad de representar información visual de manera automática mediante dispositivos electrónicos. Su evolución ha estado estrechamente relacionada con el desarrollo del hardware, especialmente los sistemas de visualización y las unidades de procesamiento gráfico (GPU), así como con los avances en matemáticas computacionales y algoritmos gráficos.
-
 ---
 
 ## 📌 Etapa inicial (1950 – 1960): Origen científico y militar
