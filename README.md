@@ -365,6 +365,10 @@ Ejemplo:
 Blanco = (255, 255, 255)  
 Negro = (0, 0, 0)
 
+### Representación gráfica del modelo RGB
+
+![Modelo RGB](RGB.png)
+
 ---
 
 ## CMY (Cyan, Magenta, Yellow)
