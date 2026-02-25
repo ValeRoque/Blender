@@ -122,11 +122,9 @@ La evolución de la graficación por computadora no solo ha transformado el entr
 - La educación interactiva
 
 Actualmente, la graficación por computadora es una herramienta esencial en la sociedad digital, permitiendo representar y analizar información compleja de manera visual y comprensible.
----
+
 
 # 1.2 Áreas de aplicación de la graficación por computadora
-
-La graficación por computadora tiene un impacto directo en múltiples disciplinas científicas, tecnológicas y artísticas. Su capacidad para representar información visual de manera precisa y realista la convierte en una herramienta fundamental en el desarrollo de sistemas modernos.
 
 A continuación, se describen sus principales áreas de aplicación con mayor profundidad:
 
@@ -291,7 +289,6 @@ La graficación por computadora no solo tiene aplicaciones estéticas, sino tamb
 - Creación de entornos interactivos avanzados
 
 Su impacto en la sociedad moderna es fundamental, ya que prácticamente cualquier dispositivo digital utiliza algún tipo de procesamiento gráfico.
----
 
 # 1.3 Aspectos matemáticos de la graficación
 
