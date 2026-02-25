@@ -393,6 +393,10 @@ Value: brillo
 
 Permite manipular colores de forma más intuitiva.
 
+### Representación gráfica del modelo HSV
+
+![Modelo HSV](HSV.png)
+
 ---
 
 ## HSL (Hue, Saturation, Lightness)
