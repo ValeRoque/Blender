@@ -404,6 +404,10 @@ Permite manipular colores de forma más intuitiva.
 Similar a HSV pero controla la luminosidad de forma diferente.  
 Es útil para diseño gráfico y edición de imágenes.
 
+### Representación gráfica del modelo HSL
+
+![Modelo HSL](HSL.png)
+
 ---
 
 ## Tutorial: Iluminación básica de un cubo en Blender
