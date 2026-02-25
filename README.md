@@ -266,6 +266,11 @@ Características:
 ### Ejercicio 1
 Dibujar un hexágono regular usando coordenadas cartesianas.
 
+## Resultado en Blender
+
+![Polígono en Blender](poligono_blender.png)
+
+
 ### Ejercicio 2
 Flor de la vida:
 - Dibujar un círculo.
@@ -276,6 +281,10 @@ Este ejercicio ayuda a comprender:
 - Simetría
 - Coordenadas
 - Geometría aplicada
+
+## Resultado en Blender
+
+![Flor en Blender](flor_blender.png)
 
 ---
 
