@@ -379,6 +379,10 @@ Funciona restando luz reflejada.
 Relación:
 CMY = 1 - RGB
 
+### Representación gráfica del modelo CMY
+
+![Modelo CMY](CMY.png)
+
 ---
 
 ## HSV (Hue, Saturation, Value)
