@@ -12,39 +12,118 @@ Actualmente, la graficación por computadora es indispensable en múltiples sect
 
 # 1.1 Historia y evolución de la graficación por computadora
 
-La evolución de la graficación por computadora ha estado estrechamente ligada al desarrollo del hardware y del software.
+La graficación por computadora surge como una necesidad de representar información visual de manera automática mediante dispositivos electrónicos. Su evolución ha estado estrechamente relacionada con el desarrollo del hardware, especialmente los sistemas de visualización y las unidades de procesamiento gráfico (GPU), así como con los avances en matemáticas computacionales y algoritmos gráficos.
 
-## Década de 1950
-- Se desarrollaron los primeros sistemas gráficos utilizando tubos de rayos catódicos (CRT).
-- Su aplicación principal era militar y científica.
-- Se utilizaban gráficos vectoriales básicos.
+---
 
-## Década de 1960
-- Aparece el primer sistema interactivo de gráficos llamado Sketchpad.
-- Se introducen conceptos como objetos gráficos y manipulación directa.
-- Comienza la investigación en modelado geométrico.
+## 📌 Etapa inicial (1950 – 1960): Origen científico y militar
 
-## Década de 1970
-- Se introducen los gráficos rasterizados (basados en píxeles).
-- Surgen los primeros videojuegos con gráficos simples.
-- Se desarrollan algoritmos para el trazo de líneas y polígonos.
+En la década de 1950, las primeras computadoras utilizaban pantallas de tubo de rayos catódicos (CRT) para mostrar información básica. Los gráficos eran simples líneas vectoriales generadas mediante cálculos matemáticos.
 
-## Década de 1980
-- Se populariza el modelado tridimensional (3D).
-- La industria del cine comienza a utilizar gráficos generados por computadora.
-- Se desarrollan técnicas de sombreado e iluminación.
+Aplicaciones principales:
+- Sistemas de radar
+- Simuladores de vuelo
+- Investigación científica
 
-## Década de 1990
-- Se crean las primeras tarjetas gráficas (GPU).
-- Surge OpenGL como estándar para gráficos.
-- Se mejora el renderizado en tiempo real.
+En 1963, Ivan Sutherland desarrolló **Sketchpad**, considerado el primer sistema de gráficos interactivos. Este programa permitió:
+- Dibujar figuras directamente en pantalla
+- Manipular objetos con un lápiz óptico
+- Aplicar restricciones geométricas
+- Crear estructuras jerárquicas
 
-## Actualidad
-- Renderizado fotorrealista.
-- Realidad virtual y realidad aumentada.
-- Simulación física avanzada.
-- Inteligencia artificial aplicada a generación de imágenes.
+Sketchpad introdujo conceptos fundamentales como:
+- Modelado de objetos
+- Interacción hombre-máquina
+- Representación estructurada de datos gráficos
 
+Este evento marcó el nacimiento formal de la graficación por computadora como disciplina académica.
+
+---
+
+## 📌 Etapa de desarrollo algorítmico (1970 – 1980)
+
+En esta etapa se desarrollaron los fundamentos matemáticos y algorítmicos que aún se utilizan actualmente.
+
+Se introdujeron los gráficos rasterizados, donde la imagen se representa como una matriz de píxeles. Esto permitió representar imágenes más complejas y detalladas.
+
+Se desarrollaron algoritmos esenciales como:
+
+- Algoritmo de Bresenham (trazado eficiente de líneas)
+- Algoritmo DDA
+- Algoritmos de relleno de polígonos
+- Eliminación de superficies ocultas
+- Algoritmo Z-buffer
+
+También comenzaron los estudios sobre iluminación y sombreado, dando origen a modelos como:
+- Sombreado de Gouraud
+- Sombreado de Phong
+
+Durante esta década surgieron los primeros videojuegos comerciales con gráficos digitales.
+
+---
+
+## 📌 Etapa de expansión tridimensional (1980 – 1990)
+
+En los años 80 la graficación 3D comenzó a consolidarse. Se desarrollaron técnicas como:
+
+- Modelado de sólidos
+- Mapeo de texturas
+- Transformaciones en tres dimensiones
+- Proyecciones en perspectiva
+
+La industria del cine empezó a incorporar gráficos generados por computadora (CGI). Esto impulsó el desarrollo de técnicas más realistas de iluminación y renderizado.
+
+Se comenzaron a usar estaciones de trabajo especializadas para procesamiento gráfico.
+
+---
+
+## 📌 Etapa de aceleración por hardware (1990 – 2005)
+
+Durante los años 90 se produjo una revolución tecnológica con la aparición de las primeras tarjetas gráficas (GPU).
+
+Las GPU permitieron:
+- Procesamiento paralelo
+- Renderizado en tiempo real
+- Mayor velocidad en cálculos matriciales
+
+Se establecieron estándares gráficos como:
+- OpenGL
+- DirectX
+
+Los videojuegos evolucionaron hacia entornos tridimensionales completos con motores gráficos avanzados.
+
+---
+
+## 📌 Etapa moderna (2005 – Actualidad)
+
+La graficación por computadora actual integra:
+
+- Renderizado fotorrealista
+- Trazado de rayos (Ray Tracing)
+- Simulación física avanzada
+- Inteligencia artificial
+- Realidad virtual (VR)
+- Realidad aumentada (AR)
+
+Las GPU modernas contienen miles de núcleos capaces de realizar millones de operaciones por segundo.
+
+Además, la inteligencia artificial ha permitido avances como:
+- Generación automática de imágenes
+- Mejora de resolución (super-resolution)
+- Simulación de materiales realistas
+
+---
+
+## 📌 Importancia histórica
+
+La evolución de la graficación por computadora no solo ha transformado el entretenimiento, sino también:
+
+- La ingeniería y el diseño industrial
+- La medicina diagnóstica
+- La visualización científica
+- La educación interactiva
+
+Actualmente, la graficación por computadora es una herramienta esencial en la sociedad digital, permitiendo representar y analizar información compleja de manera visual y comprensible.
 ---
 
 # 1.2 Áreas de aplicación
