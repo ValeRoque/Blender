@@ -3,14 +3,22 @@
 ---
 ## 📑 Índice
 
+- [Introducción](#introducción)
 - [1.1 Historia y evolución de la graficación por computadora](#11-historia-y-evolución-de-la-graficación-por-computadora)
-- [1.2 Áreas de aplicación](#12-áreas-de-aplicación)
-- [1.3 Aspectos matemáticos de la graficación por computadora](#13-aspectos-matemáticos-de-la-graficación-por-computadora)
-- [1.4 Modelos del color RGB, CMY, HSV y HSL](#14-modelos-del-color-rgb-cmy-hsv-y-hsl)
+- [1.2 Áreas de aplicación de la graficación por computadora](#12-áreas-de-aplicación-de-la-graficación-por-computadora)
+- [1.3 Aspectos matemáticos de la graficación](#13-aspectos-matemáticos-de-la-graficación)
+- [1.4 Modelos de color](#14-modelos-de-color)
+   - [RGB (Red, Green, Blue)](#rgb-red-green-blue)
+   - [CMY (Cyan, Magenta, Yellow)](#cmy-cyan-magenta-yellow)
+   - [HSV (Hue, Saturation, Value)](#hsv-hue-saturation-value)
+   - [HSL (Hue, Saturation, Lightness)](#hsl-hue-saturation-lightness)
+- [Tutorial: Iluminación básica de un cubo en Blender](#tutorial-iluminación-básica-de-un-cubo-en-blender)
 - [1.5 Representación y trazo de líneas y polígonos](#15-representación-y-trazo-de-líneas-y-polígonos)
 - [1.5.1 Formatos de imagen](#151-formatos-de-imagen)
+- [Práctica: Polígono y Flor de la Vida](#práctica-polígono-y-flor-de-la-vida)
 - [1.6 Procesamiento de mapas de bits](#16-procesamiento-de-mapas-de-bits)
-- [Bibliografía](#bibliografía)
+- [Conclusión](#conclusión)
+- [📚 Bibliografía (Formato APA)](#-bibliografía-formato-apa)
 
 ---
 # Introducción
