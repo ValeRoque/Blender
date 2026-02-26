@@ -426,6 +426,10 @@ Conceptos utilizados:
 - Materiales
 - Sombreado
 - Renderizado
+- 
+### Representación gráfica del cubo en Blender
+
+![Cubo](cubo.png)
 
 ---
 
