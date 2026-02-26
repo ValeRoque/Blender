@@ -1,7 +1,18 @@
 # 📘 Unidad I – Introducción a la Graficación por Computadora
 
 ---
+## 📑 Índice
 
+- [1.1 Historia y evolución de la graficación por computadora](#11-historia-y-evolución-de-la-graficación-por-computadora)
+- [1.2 Áreas de aplicación](#12-áreas-de-aplicación)
+- [1.3 Aspectos matemáticos de la graficación por computadora](#13-aspectos-matemáticos-de-la-graficación-por-computadora)
+- [1.4 Modelos del color RGB, CMY, HSV y HSL](#14-modelos-del-color-rgb-cmy-hsv-y-hsl)
+- [1.5 Representación y trazo de líneas y polígonos](#15-representación-y-trazo-de-líneas-y-polígonos)
+- [1.5.1 Formatos de imagen](#151-formatos-de-imagen)
+- [1.6 Procesamiento de mapas de bits](#16-procesamiento-de-mapas-de-bits)
+- [Bibliografía](#bibliografía)
+
+---
 # Introducción
 
 La graficación por computadora es una disciplina fundamental dentro de la informática que se encarga de la generación, manipulación y representación de imágenes mediante el uso de algoritmos y hardware especializado. Esta área combina conocimientos de matemáticas, física, programación y diseño visual para crear imágenes digitales en dos y tres dimensiones.
