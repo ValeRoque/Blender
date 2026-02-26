@@ -429,7 +429,7 @@ Conceptos utilizados:
 - 
 ### Representación gráfica del cubo en Blender
 
-![Cubo](cubo.png)
+![Cubo](Cubo.png)
 
 ---
 
