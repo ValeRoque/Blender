@@ -113,8 +113,8 @@ Un punto en coordenadas homogéneas se representa como:
 ### 2.3 Trazo de Líneas Curvas
 
 Las curvas permiten representar trayectorias suaves y continuas en el plano.
----
 
+---
 ### 2.3.1 Curvas Bézier
 B(t) = (1−t)²P0 + 2(1−t)tP1 + t²P2
 Donde 0 ≤ t ≤ 1.
