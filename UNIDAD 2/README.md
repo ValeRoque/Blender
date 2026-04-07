@@ -108,12 +108,14 @@ Un punto en coordenadas homogéneas se representa como:
 | cosθ -sinθ 0 |
 | sinθ cosθ 0 |
 | 0 0 1 |
+---
 
-2.3 Trazo de Líneas Curvas
+### 2.3 Trazo de Líneas Curvas
 
 Las curvas permiten representar trayectorias suaves y continuas en el plano.
+---
 
-2.3.1 Curvas Bézier
+### 2.3.1 Curvas Bézier
 B(t) = (1−t)²P0 + 2(1−t)tP1 + t²P2
 Donde 0 ≤ t ≤ 1.
 
@@ -136,7 +138,9 @@ Variar el parámetro t de 0 a 1.
 Calcular los puntos intermedios.
 Dibujar punto por punto.
 Actualizar la pantalla para generar animación fluida.
-2.4 Fractales
+---
+
+### 2.4 Fractales
 
 Un fractal es una figura geométrica que presenta autosimilitud, es decir, mantiene su estructura al observarse a diferentes escalas.
 
@@ -147,8 +151,9 @@ Triángulo de Sierpinski
 Curva de Koch
 
 Se generan mediante algoritmos recursivos y son utilizados en simulaciones naturales y gráficos por computadora.
+---
 
-2.5 Uso y Creación de Fuentes de Texto
+### 2.5 Uso y Creación de Fuentes de Texto
 
 Las fuentes permiten representar texto dentro de gráficos 2D.
 
@@ -163,8 +168,9 @@ fuente = pygame.font.Font(None, 36)
 texto = fuente.render("Graficación 2D", True, (0,0,0))
 pantalla.blit(texto, (100,100))
 Las fuentes pueden transformarse aplicando rotación, escalamiento o efectos gráficos.
+---
 
-Referencias Bibliográficas
+### Referencias Bibliográficas
 
 Foley, J. D., van Dam, A., Feiner, S. K., & Hughes, J. F. (1996). Computer graphics: Principles and practice. Addison-Wesley.
 
